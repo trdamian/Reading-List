@@ -6,3 +6,4 @@
 
 ## Learning for Nonlinear Control Systems
 * [2020, Information Theoretic Regret Bounds for Online Nonlinear Control](https://arxiv.org/pdf/2006.12466.pdf)
+* [2021, A Regret Minimization Approach to Iterative Learning Control](https://arxiv.org/pdf/2102.13478.pdf)
