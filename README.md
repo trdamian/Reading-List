@@ -1,3 +1,5 @@
+-Add introductory/tutorial paper on MPC
+
 ## Learning-based Model Predictive Control
 * [2017, Information Theoretic MPC for Model-Based Reinforcement Learning](https://www.cc.gatech.edu/~bboots3/files/InformationTheoreticMPC.pdf)
 * [2018, Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf)
