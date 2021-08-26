@@ -10,4 +10,5 @@
 * [2021, A Regret Minimization Approach to Iterative Learning Control](https://arxiv.org/pdf/2102.13478.pdf)
 
 ## Mirror Descent
+* [2003, Mirror descent and nonlinear projected subgradient methods for convex optimization](https://sci-hub.se/10.1016/s0167-6377(02)00231-6)
 * [2017, Dynamical Models and Tracking Regret in Online Convex Programming](https://arxiv.org/pdf/1301.1254.pdf)
