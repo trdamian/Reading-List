@@ -8,3 +8,6 @@
 ## Learning for Nonlinear Control Systems
 * [2020, Information Theoretic Regret Bounds for Online Nonlinear Control](https://arxiv.org/pdf/2006.12466.pdf)
 * [2021, A Regret Minimization Approach to Iterative Learning Control](https://arxiv.org/pdf/2102.13478.pdf)
+
+## Mirror Descent
+* [2017, Dynamical Models and Tracking Regret in Online Convex Programming](https://arxiv.org/pdf/1301.1254.pdf)
