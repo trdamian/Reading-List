@@ -1,5 +1,6 @@
 ## Model Predictive Control
 * [2009, MPC for tracking with optimal closed-loop performance](https://sci-hub.se/10.1016/j.automatica.2009.04.007)
+* [2014, Model predictive control: Recent developments and future promise](https://sci-hub.se/10.1016/j.automatica.2014.10.128)
 
 ## Data-driven Model Predictive Control
 * [2018, Data-Enabled Predictive Control: In the Shallows of the DeePC](https://arxiv.org/pdf/1811.05890.pdf)
