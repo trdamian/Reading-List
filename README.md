@@ -1,6 +1,9 @@
 ## Model Predictive Control
 * [2009, MPC for tracking with optimal closed-loop performance](https://sci-hub.se/10.1016/j.automatica.2009.04.007)
 
+## Data-driven Model Predictive Control
+* [2018, Data-Enabled Predictive Control: In the Shallows of the DeePC](https://arxiv.org/pdf/1811.05890.pdf)
+
 ## Learning-based Model Predictive Control
 * [2017, Information Theoretic MPC for Model-Based Reinforcement Learning](https://www.cc.gatech.edu/~bboots3/files/InformationTheoreticMPC.pdf)
 * [2018, Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf)
