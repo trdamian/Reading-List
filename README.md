@@ -3,6 +3,7 @@
 
 ## Data-driven Model Predictive Control
 * [2018, Data-Enabled Predictive Control: In the Shallows of the DeePC](https://arxiv.org/pdf/1811.05890.pdf)
+* [2019, Formulas for Data-driven Control: Stabilization, Optimality and Robustness](https://sci-hub.se/10.1109/tac.2019.2959924)
 
 ## Learning-based Model Predictive Control
 * [2017, Information Theoretic MPC for Model-Based Reinforcement Learning](https://www.cc.gatech.edu/~bboots3/files/InformationTheoreticMPC.pdf)
