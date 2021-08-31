@@ -1,4 +1,5 @@
--Add introductory/tutorial paper on MPC
+## Model Predictive Control
+* [2009, MPC for tracking with optimal closed-loop performance](https://sci-hub.se/10.1016/j.automatica.2009.04.007)
 
 ## Learning-based Model Predictive Control
 * [2017, Information Theoretic MPC for Model-Based Reinforcement Learning](https://www.cc.gatech.edu/~bboots3/files/InformationTheoreticMPC.pdf)
