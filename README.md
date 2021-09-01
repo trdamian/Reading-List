@@ -15,6 +15,7 @@
 * [2018, Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf)
 * [2019, An Online Learning Approach to Model Predictive Control](https://arxiv.org/pdf/1902.08967.pdf)
 * [2020, Information Theoretic Model Predictive Q-Learning](https://arxiv.org/pdf/2001.02153.pdf)
+* [2021, On the Optimality and Convergence Properties of the Iterative Learning Model Predictive Controller](https://arxiv.org/pdf/2010.15153.pdf)
 * [2021, Stein Variational Model Predictive Control](https://arxiv.org/pdf/2011.07641.pdf)
 * [2021, Dual Online Stein Variational Inference for Control and Dynamics](https://arxiv.org/pdf/2103.12890.pdf)
 
