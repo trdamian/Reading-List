@@ -25,6 +25,7 @@
 
 ## Stability for NMPC
 * [2012, NMPC without terminal constraints](https://sci-hub.se/10.3182/20120823-5-nl-3013.00030)
+* [2013, An apologia for stabilising terminal conditions in model predictive control] (https://sci-hub.se/10.1080/00207179.2013.813647)
 
 ## Mirror Descent
 * [2003, Mirror descent and nonlinear projected subgradient methods for convex optimization](https://sci-hub.se/10.1016/s0167-6377(02)00231-6)
