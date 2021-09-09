@@ -5,6 +5,7 @@
 ## Adaptive Model Predictive Control
 * [2013, Persistently exciting model predictive control](https://sci-hub.se/10.1002/acs.2414)
 * [2014, Adaptive receding horizon control for constrained MIMO systems](https://sci-hub.se/10.1016/j.automatica.2014.10.036)
+* [2019, Adaptive model predictive control for linear time varying MIMO systems](https://sci-hub.se/10.1016/j.automatica.2019.03.030)
 
 ## Data-driven Model Predictive Control
 * [2004, A Note on Persistency of Excitation](https://sci-hub.se/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1428856)
