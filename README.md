@@ -41,3 +41,6 @@
 
 ## Stein Variational Gradient Descent
 * [2016, Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm](https://arxiv.org/pdf/1608.04471.pdf)
+
+## Linear Matrix Inequalities
+* [1994, Linear Matrix Inequalities in System and Control Theory](https://web.stanford.edu/~boyd/lmibook/lmibook.pdf)
