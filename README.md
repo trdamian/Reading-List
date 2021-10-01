@@ -1,4 +1,5 @@
 ## Model Predictive Control
+* [2008, MPC for tracking piecewise constant references for constrained linear systems](https://sci-hub.ee/10.1016/j.automatica.2008.01.023)
 * [2009, MPC for tracking with optimal closed-loop performance](https://sci-hub.ee/10.1016/j.automatica.2009.04.007)
 * [2010, Robust stability properties of soft constrained MPC](https://sci-hub.ee/10.1109/cdc.2010.5717488)
 * [2014, Model predictive control: Recent developments and future promise](https://sci-hub.ee/10.1016/j.automatica.2014.10.128)
