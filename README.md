@@ -21,6 +21,7 @@
 
 ## Learning-based Model Predictive Control
 * [2017, Learning Model Predictive Control for Iterative Tasks. A Data-Driven Control Framework](https://arxiv.org/pdf/1609.01387.pdf)
+* [2017, Learning Model Predictive Control for Iterative Tasks: A Computationally Efficient Approach for Linear System](https://arxiv.org/pdf/1609.01387.pdf)
 * [2017, Information Theoretic MPC for Model-Based Reinforcement Learning](https://www.cc.gatech.edu/~bboots3/files/InformationTheoreticMPC.pdf)
 * [2018, A Stochastic MPC Approach with Application to Iterative Learning](https://sci-hub.ee/10.1109/cdc.2018.8619268)
 * [2018, Robust Sampling Based Model Predictive Control with Sparse Objective Information](http://www.roboticsproceedings.org/rss14/p42.pdf)
