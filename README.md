@@ -4,6 +4,7 @@
 * [2010, Robust stability properties of soft constrained MPC](https://sci-hub.ee/10.1109/cdc.2010.5717488)
 * [2014, Model predictive control: Recent developments and future promise](https://sci-hub.ee/10.1016/j.automatica.2014.10.128)
 * [2014, Soft Constrained Model Predictive Control With Robust Stability Guarantees](https://sci-hub.ee/10.1109/tac.2014.2304371)
+* [2021, A Soft Constrained MPC Formulation Enabling Learning From Trajectories With Constraint Violations](https://sci-hub.ee/10.1109/lcsys.2021.3087968)
 
 ## Adaptive Model Predictive Control
 * [2013, Persistently exciting model predictive control](https://sci-hub.ee/10.1002/acs.2414)
