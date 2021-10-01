@@ -3,6 +3,7 @@
 * [2009, MPC for tracking with optimal closed-loop performance](https://sci-hub.ee/10.1016/j.automatica.2009.04.007)
 * [2010, Robust stability properties of soft constrained MPC](https://sci-hub.ee/10.1109/cdc.2010.5717488)
 * [2014, Model predictive control: Recent developments and future promise](https://sci-hub.ee/10.1016/j.automatica.2014.10.128)
+* [2014, Soft Constrained Model Predictive Control With Robust Stability Guarantees](https://sci-hub.ee/10.1109/tac.2014.2304371)
 
 ## Adaptive Model Predictive Control
 * [2013, Persistently exciting model predictive control](https://sci-hub.ee/10.1002/acs.2414)
