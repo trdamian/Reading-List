@@ -9,6 +9,7 @@
 
 ## Stochastic Model Predictive Control
 * [2015, On Stability and Performance of Stochastic Predictive Control Techniques](https://sci-hub.ee/10.1109/tac.2014.2335274)
+* [2016, Constraint-Tightening and Stability in Stochastic Model Predictive Control](https://arxiv.org/pdf/1511.03488.pdf)
 * [2021, Convergence of Stochastic Nonlinear Systems and Implications for Stochastic Model-Predictive Control](https://sci-hub.ee/10.1109/TAC.2020.3011845)
 
 ## Adaptive Model Predictive Control
