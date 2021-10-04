@@ -8,6 +8,9 @@
 * [2021, A Soft Constrained MPC Formulation Enabling Learning From Trajectories With Constraint Violations](https://sci-hub.ee/10.1109/lcsys.2021.3087968)
 * [2021, Convergence of Stochastic Nonlinear Systems and Implications for Stochastic Model-Predictive Control](https://sci-hub.ee/10.1109/TAC.2020.3011845)
 
+## Stochastic Model Predictive Control
+* [2015, On Stability and Performance of Stochastic Predictive Control Techniques](https://sci-hub.ee/10.1109/tac.2014.2335274)
+
 ## Adaptive Model Predictive Control
 * [2013, Persistently exciting model predictive control](https://sci-hub.ee/10.1002/acs.2414)
 * [2014, Adaptive receding horizon control for constrained MIMO systems](https://sci-hub.ee/10.1016/j.automatica.2014.10.036)
