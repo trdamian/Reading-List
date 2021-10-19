@@ -38,6 +38,7 @@
 * [2021, On the Optimality and Convergence Properties of the Iterative Learning Model Predictive Controller](https://arxiv.org/pdf/2010.15153.pdf)
 
 ## Learning for Nonlinear Control Systems
+* [2020, Active Learning for Nonlinear System Identification with Guarantees](https://arxiv.org/pdf/2006.10277.pdf)
 * [2020, Information Theoretic Regret Bounds for Online Nonlinear Control](https://arxiv.org/pdf/2006.12466.pdf)
 * [2021, A Regret Minimization Approach to Iterative Learning Control](https://arxiv.org/pdf/2102.13478.pdf)
 
