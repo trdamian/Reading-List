@@ -40,6 +40,9 @@
 ## Learning for Nonlinear Control Systems
 * [2020, Active Learning for Nonlinear System Identification with Guarantees](https://arxiv.org/pdf/2006.10277.pdf)
 * [2020, Information Theoretic Regret Bounds for Online Nonlinear Control](https://arxiv.org/pdf/2006.12466.pdf)
+* [2020, Learning nonlinear dynamical systems from a single trajectory](https://arxiv.org/abs/2004.14681)
+* [2020, Non-asymptotic and Accurate Learning of Nonlinear Dynamical Systems](https://arxiv.org/abs/2002.08538)
+* [2021, Near-optimal Offline and Streaming Algorithms for Learning Non-Linear Dynamical Systems](https://arxiv.org/abs/2105.11558)
 * [2021, A Regret Minimization Approach to Iterative Learning Control](https://arxiv.org/pdf/2102.13478.pdf)
 
 ## Stability for NMPC
